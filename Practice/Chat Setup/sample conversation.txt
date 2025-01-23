@@ -1,0 +1,23 @@
+Enter the query: 
+I am trying to create an chat like system in the console using openAI api, i am passing the input as an query and your response will be stored as the llm response. I dont need any code just testing the functionality
+
+Response: 
+ Sure, I can help test the functionality of your chat-like system in the console using OpenAI API. Just let me know what input query you'd like me to respond to and I'll provide a response based on the trained language model. 
+
+Enter the query: 
+seems to be working, i just recieved the response from you now
+
+Response: 
+ Great to hear that the chat-like system using the OpenAI API is working for you! If you have any more queries or if you'd like to test any specific scenarios, feel free to let me know. I'll be here to assist you with testing the functionality further. 
+
+Enter the query:
+Nope, thats all for now thanks, going to quit now
+
+Response:
+ No problem at all! If you have any more questions or need assistance in the future, don't hesitate to reach out. Have a great day and take care!
+
+Enter the query:
+quit
+
+Chat details:
+ [{'role': 'user', 'content': 'I am trying to create an chat like system in the console using openAI api, i am passing the input as an query and your response will be stored as the llm response. I dont need any code just testing the functionality'}, {'role': 'assistant', 'content': "Sure, I can help test the functionality of your chat-like system in the console using OpenAI API. Just let me know what input query you'd like me to respond to and I'll provide a response based on the trained language model."}, {'role': 'user', 'content': 'seems to be working, i just recieved the response from you now'}, {'role': 'assistant', 'content': "Great to hear that the chat-like system using the OpenAI API is working for you! If you have any more queries or if you'd like to test any specific scenarios, feel free to let me know. I'll be here to assist you with testing the functionality further."}, {'role': 'user', 'content': 'Nope, thats all for now thanks, going to quit now'}, {'role': 'assistant', 'content': "No problem at all! If you have any more questions or need assistance in the future, don't hesitate to reach out. Have a great day and take care!"}]
