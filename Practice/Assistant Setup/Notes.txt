@@ -1,0 +1,6 @@
+To create an assistant, at a high level there are 4 steps
+
+1. Create an assistant (add tools like file upload, code interpreter)
+2. Create a thread (similar to a new chat in the chatgpt)
+3. Add a message to the thread as a user asks questions
+4. Run the assistant on the thread to generate a response

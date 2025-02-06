@@ -20,7 +20,7 @@ while True:
     else:
         user_queries.append({"role": "user", "content": user_message})
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="chatgpt-4o-latest",
             messages=user_queries,
             max_tokens=100,  # setting up this max tokens to handle the cost utilization
         )
